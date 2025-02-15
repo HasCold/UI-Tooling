@@ -1,0 +1,22 @@
+- Convert any website to figma file :- 
+Figma Plugin which convert Html to Figma design. (https://html.to.design/home)
+
+
+- Convert any figma design to website (react code) :- 
+Figma Plugin name dhiwise 
+
+
+- Ai tool make design and development :- 
+https://www.reweb.so/  (Reweb)
+
+
+- Convert image to figma design :- 
+figma plugin : app.uizard.io
+
+
+Popular UI Library :- 
+1. Material UI
+2. Chakra UI
+3. Mantine UI
+4. Daisy UI
+5. Shad CN
