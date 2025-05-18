@@ -11,7 +11,9 @@ https://www.reweb.so/  (Reweb)
 
 
 - Convert image to figma design :- 
-figma plugin : app.uizard.io
+1. figma plugin : app.uizard.io
+2. v0.dev
+3. claude
 
 
 Popular UI Library :- 
@@ -20,3 +22,4 @@ Popular UI Library :-
 3. Mantine UI
 4. Daisy UI
 5. Shad CN
+6. Animated Library (universe.io)
